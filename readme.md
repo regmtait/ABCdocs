@@ -1,7 +1,7 @@
 # ABC documentation
 
 * [Getting started](readme.md)
-* [The fundamentals](fundamental.md)
+* [The fundamentals](fundamentals.md)
 * [Rules and calculations](rules.md)
 * [Data Structure and formatting](data.md)
 
